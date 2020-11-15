@@ -1,0 +1,19 @@
+3d to 2d
+
+in vlc player
+
+open vlc player
+tools 
+preference
+video
+force aspect ratio set in to 32:9
+save
+
+open the 3d video
+tools
+effects n filters
+video effects
+crop
+set 960px left or right
+colse
+done!!!!!
